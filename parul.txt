@@ -1,2 +1,4 @@
 my name is parul
 branch1
+
+new commit for branch 1
